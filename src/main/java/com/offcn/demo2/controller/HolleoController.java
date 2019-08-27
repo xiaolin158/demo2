@@ -11,6 +11,9 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class HolleoController {
+    public static void main(String[] args) {
+        System.out.println();
+    }
 
 
 }

@@ -1,0 +1,16 @@
+package com.offcn.demo2.controller;
+
+import org.springframework.stereotype.Controller;
+
+/**
+ * @Classname HolleoController
+ * @Description TODO
+ * @Date 2019/8/23 17:19
+ * @Created by Administrator
+ */
+
+@rescc
+public class HolleoController {
+
+
+}

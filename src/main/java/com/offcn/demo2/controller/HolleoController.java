@@ -9,8 +9,12 @@ import org.springframework.stereotype.Controller;
  * @Created by Administrator
  */
 
-@rescc
+@Controller
 public class HolleoController {
+    public static void main(String[] args) {
+        System.out.println("hebing");
+        System.out.println("hebere");
+    }
 
 
 }
